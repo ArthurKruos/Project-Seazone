@@ -59,6 +59,9 @@ Cultura e Expectativas Locais: Cada cidade tem sua própria cultura e padrões l
  Quais? Explique.
 
 Como analisado anteriormente, também é possível observar correlações moderadas, entretanto há uma boa observação a se fazer. De acordo com o resultado da análise há uma correlação negativa entre a vista da cidade e a nota geral, é viável supor que a característica urbana com vista para prédios, ruas e etc é desfavorável à nota final da acomodação. Já a variável "vista" tem uma correlação positiva, apontando que os clientes se importam com vistas mais privilegiadas (diferente das "vistas na cidade").
+
+![image](https://github.com/ArthurKruos/Project-Seazone/assets/121126290/5d548987-1f68-4d2f-b9b6-c1b4396c89fa)
+
  
 **8 Existe alguma relação entre a nota recebida e a localização?**
  Quais? Explique.
